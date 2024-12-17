@@ -62,5 +62,4 @@ Python emulator.py --user <имя> --vfs <название пакетика> --s
 
 ![image](https://github.com/user-attachments/assets/18084c66-8bb7-42f4-a266-8df9e20aa4b9)  
 
-![image](https://github.com/user-attachments/assets/481ca686-78d9-48fc-bcbe-2115de3e7e2f)
 
